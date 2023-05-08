@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <conio.h>
+#include <locale.h>
+typedef struct
+{
+char name [30];
+}registro;
+main( ){
+int x,y,Matriz[5][2];
+{
+for (x=0;x<5;x++){
+ for(y=0;y<2;y++)
+  Matriz[x][y]= printf ("\n Sistemas de Informação – Computação – Análise e Desenvolvimento de Sistemas e Engenharia da Computação",setlocale(LC_ALL,"")); 
+}
+}
+}
